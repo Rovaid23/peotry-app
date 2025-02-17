@@ -1,0 +1,7 @@
+﻿pandas
+numpy
+pandas
+numpy
+tensorflow-cpu>=2.8.0,<3.0
+gTTS
+streamlit
